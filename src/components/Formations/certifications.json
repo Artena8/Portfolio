@@ -30,10 +30,10 @@
             "type" : "code"
         },
         {
-            "id": "TOEIC",
-            "date": "2025",
-            "titre": "TOEIC - EN COURS",
-            "source": "ETS Global",
+            "id": "Linguaskill Business",
+            "date": "2026",
+            "titre": "Linguaskill Business - Niveau C2",
+            "source": "Cambridge Assessment English",
             "type" : "langue"
         },
         {

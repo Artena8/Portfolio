@@ -33,8 +33,8 @@ export const About: React.FC = () => {
                         </div>
 
                         <p className="text-sm sm:text-base mt-4">
-                            Bonjour, je m’appelle <b>Héléna Chevalier</b>, 20 ans, étudiante en <b>3ème année en BUT Informatique</b> à l’IUT Gustave-Eiffel.
-                            Passionnée par l’informatique, je suis en alternance à la <b>CNAV</b> en tant que développeuse <b>C#</b>.
+                            Bonjour, je m’appelle <b>Héléna Chevalier</b>, 21 ans, étudiante en <b>informatique et systèmes d’information</b> à l’<b>Université de Technologie de Troyes (UTT)</b>.
+                            Passionnée par le développement logiciel et la gestion de projets, je m’intéresse particulièrement à la conception d’applications web et mobiles.
                         </p>
                         <div className="flex mt-8">
                             <a

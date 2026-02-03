@@ -47,6 +47,19 @@
             "Améliorer les performances des programmes dans des contextes contraints",
             "Comprendre les dynamiques d'une DSI et d'une direction informatique"
             ]
+        },
+        {
+            "id": "UTT",
+            "date": "2025 - en cours",
+            "lieu": "Université de Technologie de Troyes (UTT)",
+            "titre": "Diplôme d’ingénieur – Informatique et Systèmes d’Information",
+            "description": "Formation d’ingénieur orientée ingénierie logicielle et gestion de projets SI",
+            "type": "formation",
+            "missions": [
+                "Développement de projets académiques en ingénierie logicielle",
+                "Approfondissement des architectures logicielles et des systèmes d’information",
+                "Travail en équipe sur des projets à forte composante technique et organisationnelle"
+            ]
         }
     ]
 }
